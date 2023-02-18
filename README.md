@@ -8,7 +8,7 @@ This is a simple book store program that allows you to :
 - search for books.
 
 ## Code explanations
-- YouTube Link : 'soon'
+- YouTube Link : https://www.youtube.com/watch?v=cGtqW6pKSYw
 
 ## Programing tool
 - VScode.
