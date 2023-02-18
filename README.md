@@ -15,5 +15,7 @@ This is a simple book store program that allows you to :
 - java.
 
 ## About the app
-
+<div>
+<img src="https://user-images.githubusercontent.com" width="300"> 
+<div>
 
